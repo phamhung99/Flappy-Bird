@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Controller\MainMenuController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\BirdController\BirdController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Controller\GamePlayController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Controller\GameManager.cs" Line="28" Column="5" />
+      <File FileName="Assets\Scripts\PipeController\PipeController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Spawner Pipe\SpawnerPipe.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Spawner Ground\SpawnerGround.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GroundController\GroundController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Admob\AdmobInterstitial.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Admob\AdmobBanner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Admob\AdmobReward.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Controller\MainMenuController.cs" Line="13" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="E:\Unity\Flappy bird\Assets\Scripts - quan ly code\Admob\ShowAdsManager.cs" line="76" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
